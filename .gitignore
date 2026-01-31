@@ -1,0 +1,27 @@
+# API Keys 和配置文件（包含敏感信息）
+config.json
+
+# VSCode 设置
+.vscode/settings.json
+
+# 打包生成的文件
+dist/
+build/
+*.spec
+*.exe
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+build_env/
+venv/
+env/
+ENV/
+
+# 其他
+.DS_Store
+Thumbs.db

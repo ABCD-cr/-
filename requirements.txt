@@ -1,0 +1,11 @@
+# DeepSeek AI API
+openai>=1.0.0
+
+# 自动化控制
+pyautogui>=0.9.54
+
+# 图像处理
+pillow>=10.0.0
+
+# HTTP 请求
+requests>=2.31.0
